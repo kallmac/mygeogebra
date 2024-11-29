@@ -6,4 +6,5 @@ My geogebra, написанная на python
 'pip install -r requirements.txt'
 
 Для работы проекта, запустить фаил main.py
+
 'python main.py'
