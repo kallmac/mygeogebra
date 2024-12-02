@@ -7,7 +7,7 @@ pygame.init()
 # Устанавливаем размеры экрана
 screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption('Взаимодействие фигур')
-FPS= 60 # кадры в секунду
+FPS = 60 # кадры в секунду
 
 # Цвета
 WHITE = (255, 255, 255)
